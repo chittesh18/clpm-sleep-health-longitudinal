@@ -21,7 +21,7 @@ spanning 2009 to 2021 (N = 12,875).
 - Moderation confirmed for gender, employment, and education
 
 ### Exploratory Analysis 
-- `gbtm_exploratory.py` — Group-based trajectory modelling 
+- `gbtm.py` — Group-based trajectory modelling 
   using KMeans clustering approximation for GHQ-12 and 
   sleep quality. Three-group solutions identified for both 
   outcomes. Formal GBTM would require 
